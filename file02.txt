@@ -1,1 +1,1 @@
-Second file's \(slightly\) differing content.
+Second file’s (slightly) differing content.
