@@ -6,12 +6,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [1.0.0] - 2021-01-15
+## [2.0.0] - 2021-01-16
 ### Added
-- Initial files [@Brandon-Watkins](https://github.com/Brandon-Watkins).
+- file04.txt [@Brandon-Watkins](https://github.com/Brandon-Watkins).
+- file05.txt [@Brandon-Watkins](https://github.com/Brandon-Watkins).
+- file06.txt [@Brandon-Watkins](https://github.com/Brandon-Watkins).
 
 ### Changed
--
+- Changed content of file03.txt [@Brandon-Watkins](https://github.com/Brandon-Watkins).
 
 ### Removed
 -
@@ -24,3 +26,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Deprecated
 -
+
+## [1.0.0] - 2021-01-15
+### Added
+- Initial files [@Brandon-Watkins](https://github.com/Brandon-Watkins).
+
+
